@@ -1,4 +1,6 @@
-![Header](https://user-images.githubusercontent.com/XXX/HeaderImage.png) <!-- You can create a custom header image -->
+<p align="center">
+  <img src="profile.jpg" alt="Header" width="800" height="800"/>
+</p>
 
 # Hi there, I'm Arjun Sudheer 👋
 
