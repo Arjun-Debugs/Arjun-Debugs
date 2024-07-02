@@ -1,14 +1,21 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=FF5733&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hola!+✌️;+I'm+Arjun+Sudheer!;+Welcome+to+my+GitHub+Profile!" />
-</h1><br>
+</h1>
 
 ## 📖 About Me
 
-I'm Arjun Sudheer, a passionate and driven Computer Science Engineering student at Sri Ramakrishna Engineering College, Coimbatore. My journey in technology is fueled by a love for learning and a deep interest in cloud computing, web development, and AI/ML. I thrive on challenges and constantly set goals for myself, so I have something to strive towards. I'm always looking for opportunities to learn something new and grow as a developer.
+<div style="display: flex; align-items: center; justify-content: space-between;">
+    <div>
+        I'm Arjun Sudheer, a passionate and driven Computer Science Engineering student at Sri Ramakrishna Engineering College, Coimbatore. My journey in technology is fueled by a love for learning and a deep interest in cloud computing, web development, and AI/ML. I thrive on challenges and constantly set goals for myself, so I have something to strive towards. I'm always looking for opportunities to learn something new and grow as a developer.
+    </div>
+    <div>
+        <img src="pic5.gif" alt="Profile GIF" width="150" height="150"/>
+    </div>
+</div>
 
 ### 🎓 Education
 
-I am pursuing my Bachelor of Engineering in Computer Science at Sri Ramakrishna Engineering College.My academic journey has provided me with a strong foundation in programming and development, equipping me with the skills to tackle complex technical problems.
+I am pursuing my Bachelor of Engineering in Computer Science at Sri Ramakrishna Engineering College. My academic journey has provided me with a strong foundation in programming and development, equipping me with the skills to tackle complex technical problems.
 
 ## 🌐 Connect with Me
 
