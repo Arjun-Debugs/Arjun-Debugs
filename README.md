@@ -2,29 +2,37 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=FF5733&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hola!+✌️;+I'm+Arjun+Sudheer!;+Welcome+to+my+GitHub+Profile!" />
 </h1><br>
 
+## 📖 About Me
+
+I'm Arjun Sudheer, a passionate and driven Computer Science Engineering student at Sri Ramakrishna Engineering College, Coimbatore. My journey in technology is fueled by a love for learning and a deep interest in cloud computing, web development, and AI/ML. I thrive on challenges and constantly set goals for myself, so I have something to strive towards. I'm always looking for opportunities to learn something new and grow as a developer.
+
+### 🎓 Education
+
+I am pursuing my Bachelor of Engineering in Computer Science at Sri Ramakrishna Engineering College.My academic journey has provided me with a strong foundation in programming and development, equipping me with the skills to tackle complex technical problems.
+
 ## 🌐 Connect with Me
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/arjun-sudheer-9367001a1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo"  />
+<div align="center">
+  <a href="https://www.linkedin.com/in/arjun-sudheer-9367001a1" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
-  <a href="https://medium.com/@arjunsudheer399" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Medium logo"  />
+  <a href="https://medium.com/@arjunsudheer399" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Medium logo" />
   </a>
-  <a href="mailto:arjunsudheer399@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo"  />
+  <a href="mailto:arjunsudheer399@gmail.com" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo" />
   </a>
-  <a href="https://www.instagram.com/_arjun.sudheer_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo"  />
+  <a href="https://www.instagram.com/_arjun.sudheer_" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo" />
   </a>
-  <a href="https://discord.com/users/691908035660087326" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord logo"  />
+  <a href="https://discord.com/users/691908035660087326" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord logo" />
   </a>
-  <a href="https://twitter.com/arjunsudheer399" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter logo"  />
+  <a href="https://twitter.com/arjunsudheer399" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter logo" />
   </a>
   <a href="https://wa.me/9994538868" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Whatsapp logo"  />
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Whatsapp logo" />
   </a>
 </div>
 
@@ -45,14 +53,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo"  />
 </div>
-
-## 📖 About Me
-
-I'm Arjun Sudheer, a passionate and driven Computer Science Engineering student at Sri Ramakrishna Engineering College, Coimbatore. My journey in technology is fueled by a love for learning and a deep interest in cloud computing, web development, and AI/ML. I thrive on challenges and constantly set goals for myself, so I have something to strive towards. I'm always looking for opportunities to learn something new and grow as a developer.
-
-### 🎓 Education
-
-I am pursuing my Bachelor of Engineering in Computer Science at Sri Ramakrishna Engineering College.My academic journey has provided me with a strong foundation in programming and development, equipping me with the skills to tackle complex technical problems.
 
 ### 💼 Skills
 
