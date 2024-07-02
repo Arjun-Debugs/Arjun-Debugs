@@ -8,9 +8,7 @@
     <div>
         I'm Arjun Sudheer, a passionate and driven Computer Science Engineering student at Sri Ramakrishna Engineering College, Coimbatore. My journey in technology is fueled by a love for learning and a deep interest in cloud computing, web development, and AI/ML. I thrive on challenges and constantly set goals for myself, so I have something to strive towards. I'm always looking for opportunities to learn something new and grow as a developer.
     </div>
-    <div>
-        <img src="pic5.gif" alt="Profile GIF" width="150" height="150"/>
-    </div>
+
 </div>
 
 ### 🎓 Education
