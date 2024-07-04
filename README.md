@@ -36,7 +36,7 @@ I am pursuing my Bachelor of Engineering in Computer Science at Sri Ramakrishna 
   <a href="https://twitter.com/arjunsudheer399" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter logo" />
   </a>
-  <a href="https://wa.me/9994538868" target="_blank">
+  <a href="https://wa.me/+919994538868" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Whatsapp logo" />
   </a>
 </div>
