@@ -18,7 +18,7 @@ I am pursuing my Bachelor of Engineering in Computer Science at Sri Ramakrishna 
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/arjun-sudheer" target="_blank" style="margin-right: 10px;">
+  <a href="https://www.linkedin.com/in/arjunsudheer" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
   <a href="https://medium.com/@arjunsudheer399" target="_blank" style="margin-right: 10px;">
