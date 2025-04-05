@@ -66,38 +66,6 @@ I am pursuing my Bachelor of Engineering in Computer Science at Sri Ramakrishna 
 - **Cloud & DevOps**: Skilled in AWS (EC2, Amplify, S3, CloudFront, Route 53), CI/CD Pipelines, Linux Commands, and Networking.
 - **Other Skills**: In-depth knowledge of Data Structures, Relational Databases, and Quality Assurance.
 
-### 🔥 Projects
-
-1. **Deployed SREC Website Using Cloud**
-   - **Description**: Developed a robust backend for an e-commerce site featuring user authentication, product management, order processing, and payment integration.
-   - **Tools**: EC2, Amplify, S3, CloudFront, Route 53
-   - [GitHub URL](https://github.com/Arjun-Debugs/SREC-Website)
-
-2. **Deployed E-Commerce Website (Myntra)**
-   - **Description**: Deployed an e-commerce website using cloud.
-   - [GitHub URL](https://github.com/Arjun-Debugs/Myntra-Clone)
-
-3. **Suggested CI for SREC Website**
-   - **Description**: Suggested continuous integration for SREC website.
-   - [GitHub URL](https://github.com/Arjun-Debugs/SREC-CI)
-
-4. **Environment for JAVA Based Application**
-   - **Description**: Created an environment for a Java-based application.
-   - [GitHub URL](https://github.com/Arjun-Debugs/Java-Environment)
-
-5. **Backend Project (Chat Application)**
-   - **Description**: Developed a real-time chat application backend supporting one-on-one and group messaging.
-   - [GitHub URL](https://github.com/Arjun-Debugs/Chat-Application)
-
-### 📜 Certifications
-
-- **Quality Assurance Certification** - freeCodeCamp
-- **Relational Database Certification** - freeCodeCamp
-- **C Programming Course** - Skillrack
-- **Python Programming Course** - Skillrack
-- **SQL Basics** - Skillrack
-- **Cisco Packet Tracer** - CISCO Network Academy
-
 ### 🌟 Personal Interests
 
 - 🔭 I’m currently working on various open-source projects.
