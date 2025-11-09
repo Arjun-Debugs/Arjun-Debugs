@@ -21,7 +21,7 @@ I am pursuing my Bachelor of Engineering in Computer Science at Sri Ramakrishna 
 
 ### 🌟 1. CreatorHub – Platform for Empowering Small-Scale Creators  
 **Tech:** MERN Stack, AWS (Amplify, S3, CloudFront), JWT, Media Security  
-**GitHub Repository:** https://github.com/Arjun-Debugs/creovate-platform  
+**GitHub Repository:** https://github.com/Arjun-Debugs/CreatorHub  
 
 ✅ A web platform that helps creators **teach, share, and sell content/products online**  
 ✅ Secure APIs, content protection & media upload workflow  
