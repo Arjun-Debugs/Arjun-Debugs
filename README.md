@@ -15,6 +15,44 @@
 
 I am pursuing my Bachelor of Engineering in Computer Science at Sri Ramakrishna Engineering College. My academic journey has provided me with a strong foundation in programming and development, equipping me with the skills to tackle complex technical problems.
 
+---
+
+## 🚀 Featured Projects
+
+### 🌟 1. CreatorHub – Platform for Empowering Small-Scale Creators  
+**Tech:** MERN Stack, AWS (Amplify, S3, CloudFront), JWT, Media Security  
+**GitHub Repository:** https://github.com/Arjun-Debugs/creovate-platform  
+
+✅ A web platform that helps creators **teach, share, and sell content/products online**  
+✅ Secure APIs, content protection & media upload workflow  
+✅ Creator storefronts for selling digital + physical items  
+✅ Built with scalability & cloud-first design  
+
+---
+
+### ✅ 2. E-OD Management System  
+**Tech:** React.js, Node.js, Express.js, MongoDB  
+**GitHub Repository:** https://github.com/Arjun-Debugs/ODmanagement  
+
+✅ Full-stack On Duty (OD) request & approval system  
+✅ Multi-level OD approval + event registration  
+✅ Smooth UI for students & admins  
+✅ Secure, responsive & production-ready  
+
+---
+
+### 🍅 3. Tomato Ripeness & Plant Growth Detection System  
+**Tech:** TensorFlow, PyTorch, ResNet50, VGG16, EfficientNetB0, YOLOv3  
+**GitHub Repository:** https://github.com/Arjun-Debugs/Tomato_Plant_Stages_Prediction  
+
+✅ Detects plant growth stages & tomato ripeness  
+✅ Collaborated with **TNAU, Coimbatore**  
+✅ Trained multiple deep learning models for comparison  
+✅ *Awarded “Best Project of the Year – 2023”*  
+✅ Published in **Springer (ICIACS 2024)**  
+
+---
+
 ## 🌐 Connect with Me
 
 <div align="center">
